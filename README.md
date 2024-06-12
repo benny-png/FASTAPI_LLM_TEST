@@ -118,6 +118,4 @@ else:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-### Summary
 
-This README template provides an overview of the project, installation steps, and usage instructions, including how to run the server and make POST requests to the inference endpoint. Adjust the repository URL and any specific details as needed.
