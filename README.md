@@ -104,7 +104,11 @@ else:
 ```
 
 
+
+
 ![Watch the video](https://github.com/benny-png/FASTAPI_LLM_TEST/blob/main/FASTAPI.gif)
+
+
 
 
 #### Using Postman
