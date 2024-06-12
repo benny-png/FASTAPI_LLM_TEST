@@ -79,6 +79,15 @@ curl -X 'POST' \
 
 #### Using Python
 
+
+
+
+![Watch the video](https://github.com/benny-png/FASTAPI_LLM_TEST/blob/main/FASTAPI.gif)
+
+
+
+
+
 ```python
 import requests
 import json
@@ -102,12 +111,6 @@ if response.status_code == 200:
 else:
     print("Failed to get response. Status code:", response.status_code)
 ```
-
-
-
-
-![Watch the video](https://github.com/benny-png/FASTAPI_LLM_TEST/blob/main/FASTAPI.gif)
-
 
 
 
