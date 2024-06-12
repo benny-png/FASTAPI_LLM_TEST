@@ -3,6 +3,10 @@
 
 This project demonstrates how to create an inference API using FastAPI and a pre-trained language model from Hugging Face's Transformers library. The API can generate text based on a given prompt using the GPT-2 model.
 
+
+![Watch the video](https://github.com/benny-png/FASTAPI_LLM_TEST/blob/main/FASTAPI.gif)
+
+
 ## Features
 
 - **FastAPI**: A modern, fast (high-performance) web framework for building APIs with Python.
