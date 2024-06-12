@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+transformers
+requests
+pyngrok
+nest_asyncio
