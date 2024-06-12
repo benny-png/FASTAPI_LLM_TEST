@@ -4,7 +4,7 @@
 This project demonstrates how to create an inference API using FastAPI and a pre-trained language model from Hugging Face's Transformers library. The API can generate text based on a given prompt using the GPT-2 model.
 
 
-![Watch the video](https://github.com/benny-png/FASTAPI_LLM_TEST/blob/main/FASTAPI.gif)
+![Watch the video](https://github.com/benny-png/KaribuChat/blob/main/FASTAPI.png)
 
 
 ## Features
@@ -102,6 +102,10 @@ if response.status_code == 200:
 else:
     print("Failed to get response. Status code:", response.status_code)
 ```
+
+
+![Watch the video](https://github.com/benny-png/FASTAPI_LLM_TEST/blob/main/FASTAPI.gif)
+
 
 #### Using Postman
 
